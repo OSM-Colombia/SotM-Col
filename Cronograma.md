@@ -6,11 +6,11 @@ gantt
 
     section Voluntarios de logística
     Preparar plataforma voluntarios (TI)     :2026-01-15, 2026-02-15
-    Redactar llamado voluntarios (Lo)   :2026-01-31, 2026-02-07
-    Realizar llamado voluntarios (Lo)       :2026-02-07, 2026-03-31
-    Identificación tareas puntuales (Lo)    :2026-02-10, 2026-03-10
-    Configuración plataforma (Lo)    :2026-03-10, 2026-04-10
-    Contactar voluntarios y código conducta (Lo)     :2026-05-01, 2026-05-20
+    Configuración plataforma (Lo)    :2026-02-15, 2026-02-28
+    Identificación tareas puntuales (Lo)    :2026-02-28, 2026-04-25
+    Redactar llamado voluntarios (Lo)   :2026-04-04, 2026-04-11
+    Realizar llamado voluntarios (Lo)       :2026-04-11, 2026-05-09
+    Contactar voluntarios y código conducta (Lo)     :2026-05-09, 2026-05-16
     Asignar tareas y tiempos       (Lo)     :2026-05-16, 2026-05-23
 
     section Intérpretes
