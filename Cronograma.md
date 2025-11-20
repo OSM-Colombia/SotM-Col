@@ -5,12 +5,13 @@ gantt
     axisFormat  %d-%b
 
     section Voluntarios de logística
-    Redactar llamado voluntarios        :2026-02-01, 2026-02-05
-    Preparar plataforma voluntarios     :2026-02-06, 2026-02-10
-    Realizar llamado voluntarios        :2026-02-11, 2026-02-20
-    Identificación tareas puntuales     :2026-02-21, 2026-02-25
-    Contactar voluntarios y código      :2026-02-26, 2026-03-05
-    Asignar tareas y tiempos            :2026-03-06, 2026-03-15
+    Preparar plataforma voluntarios (TI)     :2026-01-15, 2026-02-15
+    Redactar llamado voluntarios (Lo)   :2026-01-31, 2026-02-07
+    Realizar llamado voluntarios (Lo)       :2026-02-07, 2026-03-31
+    Identificación tareas puntuales (Lo)    :2026-02-10, 2026-03-10
+    Configuración plataforma (Lo)    :2026-03-10, 2026-04-10
+    Contactar voluntarios y código conducta (Lo)     :2026-05-01, 2026-05-20
+    Asignar tareas y tiempos       (Lo)     :2026-05-16, 2026-05-23
 
     section Intérpretes
     Revisar necesidad intérpretes       :2026-03-01, 2026-03-05
