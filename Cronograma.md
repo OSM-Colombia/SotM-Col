@@ -9,11 +9,12 @@ gantt
     Conformación de grupos de trabajo        :done, 2025-11-14, 1d
     Crea canal de comunicación               :done, 2025-11-14, 1d
     Seleccion nombre                         :done, 2025-11-14, 1d
-    Anuncio inicial                          :done, 2025-11-22, 1d
-    Llamado a organizar                      :done, 2025-11-22, 1d
+    Anuncio inicial                          :done, 2025-11-15, 1d
+    Llamado a organizar                      :done, 2025-11-15, 1d
     
     section Lugar (Lo)
-    Buscar lugar                             :done, 2025-11-01, 3d
+    Buscar lugar (Lo)                        :done, 2025-11-01, 3d
+    Confirmación del lugar (Lo)              :done, 2025-12-01, 1d
     
     section Marca (Es)
     Llenar el formulario de SotM (Es)        :2025-11-22, 1d
