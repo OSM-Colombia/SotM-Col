@@ -4,6 +4,9 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %d-%b
     
+    section Definición (Es)
+    Creación de maqueta de evento            :done, 2025-09-30, 15d
+    
     section Marca (Es)
     Llenar el formulario de SotM (Es)        :2025-11-22, 1d
     Enviar aplicación a la OSMF (Es)         :2025-11-22, 1d
@@ -50,13 +53,20 @@ gantt
     Publicar en redes sociales (Cr)          :2025-12-03, 2026-06-21
     Publicar resumen charlas (Cr)            :2026-03-28, 2026-04-16
     
-    section Transmisión
-    Configuración computadores transmisión (Cr) :2026-03-14, 2026-04-18
+    section Transmisión (TI)
+    Configuración computadores transmisión (TI) :2026-03-14, 2026-04-18
     
     section Plataforma (TI)
-    Mantener página web (TI)                 :2026-03-14, 2026-05-31
-    Mantener sistema de mensajería (TI)      :2026-03-14, 2026-06-21
-    
+    Mantener página web (TI)                 :2025-12-14, 2026-05-31
+    Mantener sistema de mensajería (TI)      :2025-12-14, 2026-06-21
+    Mantener sistema de eventos (TI)         :2026-04-04, 2026-05-31
+    Mantener sistema de charlas (TI)         :2025-12-14, 2026-05-23
+    Mantener plataforma voluntarios (TI)     :2026-02-15, 2026-05-23
+
+    section Asistentes
+    Identificar asistentes (Es)              :2025-12-03, 2026-05-02
+    Invitar asistentes (Es)                  :2026-02-07, 2026-05-02
+
     section Patrocinadores y aliados (Es)
     Definir reglas de patrocinio y alianzas (Es) :2025-12-03, 2025-12-13
     Hacer el llamado a patrocinadores (Es)   :2025-12-13, 1d
@@ -67,10 +77,6 @@ gantt
     section Becas (Es)
     Selección de becas (Es)                  :2026-02-28, 2026-04-18
     Asignación de becas (Es)                 :2026-04-18, 2026-05-02
-
-    section Asistentes
-    Identificar asistentes (Es)              :2025-12-03, 2026-05-02
-    Invitar asistentes (Es)                  :2026-02-07, 2026-05-02
 
     section Voluntarios de logística (TI, Lo)
     Preparar plataforma voluntarios (TI)     :2026-01-15, 2026-02-15
@@ -93,8 +99,8 @@ gantt
     Negociar y contratar comida (Es, Lo)     :2026-05-02, 2026-05-16
     Indicar la cantidad de platos/dietas (Lo) :2026-05-19, 2026-05-20
     
-    section Prensa
-    Preparar una nota de prensa (Cr)         :2026-04-04, 2026-04-18
+    section Prensa (Cr)
+    Preparar una nota de prensa (Cr)         :2026-02-07, 2026-02-21
     Enviar nota de prensa a periódicos, emisoras (Cr) :2026-04-18, 2026-05-16
 
     section Evento – Preparación (TI)
@@ -110,9 +116,15 @@ gantt
     Definir checklist (Todos)                :2026-05-02, 2026-05-16
     Validar checklist (Es, lo)               :2026-05-16, 2026-05-22
 
+    %% Hasta aquí toda la preparación del evento
+    
     section Evento – Realización
-    State of the Map Colombia 2026           :2026-05-23, 2026-05-31
+    Initial vert : vert, 2026-05-23,1d
+    State of the Map Colombia 2026           :milestone, 2026-05-23, 2026-05-31
+    Final vert : vert, 2026-05-31,1d
 
+    %% Evento terminado
+    
     section Evento – Terminación
     Desmontaje rincón café (Lo)              :2026-05-31, 1d
     Desmontaje mesas patrocinadores (Lo)     :2026-05-31, 1d
@@ -149,5 +161,4 @@ gantt
     Revisar necesidad intérpretes  (Lo)      :2026-02-28, 2026-04-11
     Llamado intérpretes  (Lo)                :2026-04-04, 2026-05-09
     Contacto y asignación tareas  (Lo)       :2026-05-09, 2026-05-24
-
-
+```
