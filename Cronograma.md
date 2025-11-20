@@ -14,7 +14,7 @@ gantt
     
     section Lugar (Lo)
     Buscar lugar (Lo)                        :done, 2025-11-01, 3d
-    Confirmación del lugar (Lo)              :done, 2025-12-01, 1d
+    Confirmación del lugar (Lo)              :2025-12-01, 1d
     
     section Marca (Es)
     Llenar el formulario de SotM (Es)        :2025-11-22, 1d
