@@ -70,7 +70,7 @@ gantt
 
     section Asistentes
     Identificar asistentes (Es)              :2025-12-03, 2026-05-02
-    Invitar asistentes (Es)                  :2025-02-07, 2026-05-02
+    Invitar asistentes (Es)                  :2026-02-07, 2026-05-02
 
     section Voluntarios de logística
     Preparar plataforma voluntarios (TI)         :2026-01-15, 2026-02-15
