@@ -6,6 +6,14 @@ gantt
     
     section Definición (Es)
     Creación de maqueta de evento            :done, 2025-09-30, 15d
+    Conformación de grupos de trabajo        :done, 2025-11-14, 1d
+    Crea canal de comunicación               :done, 2025-11-14, 1d
+    Seleccion nombre                         :done, 2025-11-14, 1d
+    Anuncio inicial                          :done, 2025-11-22, 1d
+    Llamado a organizar                      :done, 2025-11-22, 1d
+    
+    section Lugar (Lo)
+    Buscar lugar                             :done, 2025-11-01, 3d
     
     section Marca (Es)
     Llenar el formulario de SotM (Es)        :2025-11-22, 1d
@@ -119,9 +127,9 @@ gantt
     %% Hasta aquí toda la preparación del evento
     
     section Evento – Realización
-    Initial vert : vert, 2026-05-23,1d
+    Inicio : vert, 2026-05-23,1d
     State of the Map Colombia 2026           :milestone, 2026-05-23, 2026-05-31
-    Final vert : vert, 2026-05-31,1d
+    Fin : vert, 2026-05-31,1d
 
     %% Evento terminado
     
@@ -161,4 +169,6 @@ gantt
     Revisar necesidad intérpretes  (Lo)      :2026-02-28, 2026-04-11
     Llamado intérpretes  (Lo)                :2026-04-04, 2026-05-09
     Contacto y asignación tareas  (Lo)       :2026-05-09, 2026-05-24
+
+
 ```
