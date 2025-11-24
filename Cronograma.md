@@ -17,11 +17,11 @@ gantt
     Confirmación del lugar (Lo)              :2025-12-01, 1d
     
     section Marca (Es)
-    Llenar el formulario de SotM (Es)        :2025-11-22, 1d
-    Enviar aplicación a la OSMF (Es)         :2025-11-22, 1d
+    Llenar el formulario de SotM (Es)        :done, 2025-11-22, 1d
+    Enviar aplicación a la OSMF (Es)         :done, 2025-11-22, 1d
 
     section Código de conducta (Es)
-    Redactar el código de conducta (Es)      :2025-11-22, 2025-12-01
+    Redactar el código de conducta (Es)      :done, 2025-11-22, 2025-12-01
     Compartir y publciar el código (Es)      :2025-12-03, 1d
     
     section Lista de distribución (TI, Es)
