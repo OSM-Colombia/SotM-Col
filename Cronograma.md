@@ -22,7 +22,7 @@ gantt
 
     section Código de conducta (Es)
     Redactar el código de conducta (Es)      :done, 2025-11-22, 2025-12-01
-    Compartir y publciar el código (Es)      :2025-12-03, 1d
+    Compartir y publciar el código (Es)      :done, 2025-12-03, 1d
     
     section Lista de distribución (TI, Es)
     Alistar una lista de distribución (TI)   :2025-12-03, 2025-12-20
@@ -35,7 +35,7 @@ gantt
     Redactar mail para junio (Es)            :2026-06-20, 2026-06-30
 
     section Programa (Pr, IT, Cr)
-    Diseño de agenda del evento (Pr)         :2025-11-06, 2025-12-03
+    Diseño de agenda del evento (Pr)         :done, 2025-11-06, 2025-12-03
     Redactar el llamado a participantes (Pr) :2025-11-06, 2025-12-03
     Montar pretalx o equivalente (IT)        :2025-11-22, 2025-12-14
     Publicar el llamado a participantes (Cr) :2025-12-14, 1d
@@ -46,8 +46,8 @@ gantt
     Publicar programa (Cr)                   :2026-04-25, 1d
 
     section Logo (Cr)
-    Definir criterios para logo (Cr)         :2025-11-15, 2025-12-03
-    Publicar llamado a logo (Cr)             :2025-12-04, 1d
+    Definir criterios para logo (Cr)         :done, 2025-11-15, 2025-12-03
+    Publicar llamado a logo (Cr)             :done, 2025-12-04, 1d
     Revisión de logos recibidos (Cr)         :2026-01-17, 2026-01-31
     Presentación de logo (Cr)                :2026-02-01, 1d
     
@@ -78,7 +78,7 @@ gantt
 
     section Patrocinadores y aliados (Es)
     Definir reglas de patrocinio y alianzas (Es) :2025-12-03, 2025-12-13
-    Hacer el llamado a patrocinadores (Es)   :2025-12-13, 1d
+    Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
     Identificar patrocinadores (Es)          :2025-12-03, 2026-04-18
     Invitar patrocinadores (Es)              :2025-12-13, 2026-04-18
     Negociar con patrocinadores (Es)         :2026-02-21, 2026-05-02
