@@ -44,6 +44,24 @@ gantt
     Redactar mail para junio (Es)            :2026-06-20, 2026-06-30
     Redactar mail para julio (Es)            :2026-07-20, 2026-07-30
 
+    section Plataforma (TI)
+    Mantener página web (TI)                 :2025-12-14, 2026-07-31
+    Mantener sistema de mensajería (TI)      :2025-12-14, 2026-07-31
+    Mantener sistema de eventos (TI)         :2026-05-15, 2026-07-15
+    Mantener sistema de charlas-pretalx (TI) :2025-12-14, 2026-07-15
+    Mantener plataforma voluntarios (TI) ¿?  :2026-05-15, 2026-07-15
+
+    section Asistentes
+    Identificar asistentes (Es)              :2025-12-03, 2026-06-20
+    Invitar asistentes (Es)                  :2026-05-13, 2026-06-25
+
+    section Patrocinadores y aliados (Es)
+    Definir reglas de patrocinio y alianzas (Es) :2025-12-03, 2025-12-13
+    Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
+    Identificar patrocinadores (Es)          :2025-12-03, 2026-06-10
+    Invitar patrocinadores (Es)              :2025-12-13, 2026-06-15
+    Negociar con patrocinadores (Es)         :2026-05-13, 2026-06-25
+
     section Artes (Cr)
     Definir materiales a imprimir (Cr)       :2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :2026-05-15, 2026-05-20
@@ -63,24 +81,6 @@ gantt
     Configuración computadores transmisión (TI) :2026-05-16, 2026-06-30
     Diseñar template para OBX (TI)           :2026-06-10, 2026-06-15
     
-    section Plataforma (TI)
-    Mantener página web (TI)                 :2025-12-14, 2026-07-31
-    Mantener sistema de mensajería (TI)      :2025-12-14, 2026-07-31
-    Mantener sistema de eventos (TI)         :2026-05-15, 2026-07-15
-    Mantener sistema de charlas-pretalx (TI) :2025-12-14, 2026-07-15
-    Mantener plataforma voluntarios (TI) ¿?  :2026-05-15, 2026-07-15
-
-    section Asistentes
-    Identificar asistentes (Es)              :2025-12-03, 2026-06-20
-    Invitar asistentes (Es)                  :2026-05-13, 2026-06-25
-
-    section Patrocinadores y aliados (Es)
-    Definir reglas de patrocinio y alianzas (Es) :2025-12-03, 2025-12-13
-    Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
-    Identificar patrocinadores (Es)          :2025-12-03, 2026-06-10
-    Invitar patrocinadores (Es)              :2025-12-13, 2026-06-15
-    Negociar con patrocinadores (Es)         :2026-05-13, 2026-06-25
-
     section Becas (Es)
     Selección de becas (Es)                  :2026-05-20, 2026-06-10
     Asignación de becas (Es)                 :2026-06-10, 2026-06-20
@@ -97,7 +97,7 @@ gantt
     section Comunicación previa al evento (Es, TI)
     Crear formulario contacto (Es)           :2026-05-15, 2026-05-16
     Preparar mail de instrucciones (Es)      :2026-05-17, 2026-05-20
-    Crear canal de comunicación (TI)         :2026-05-19, 1d
+    Crear canal de comunicación WhatsApp (TI) :2026-05-19, 1d
     Enviar mail a participantes (Es)         :2026-05-21, 1d
 
     section Almuerzo (Lo)
@@ -134,35 +134,28 @@ gantt
     Desmontaje banners y posters (Lo)        :2026-07-04, 1d
 
     section Documentos post-evento (Cr)
-    Diseñar certificados (Cr)                :2026-04-04, 2026-04-18
-    Generar certificados (Cr)                :2026-06-01, 2026-06-06
-    Envío certificados (Cr)                  :2026-06-06, 2026-06-08
-    Redactar agradecimiento asistentes (Cr)  :2026-04-04, 2026-04-18
-    Envío agradecimientos asistentes (Cr)    :2026-06-06, 2026-06-13
+    Diseñar certificados (Cr)                :2026-06-20, 2d
+    Generar certificados (Cr)                :2026-07-05, 5d
+    Envío certificados (Cr)                  :2026-07-10, 2d
+    Redactar agradecimiento asistentes (Cr)  :2026-06-20, 2026-07-08
+    Envío agradecimientos asistentes (Cr)    :2026-07-10, 2d
 
     section Comunicación post-evento (Es)
-    Preparar agradecimiento patrocinadores (Es) :2026-04-04, 2026-04-18
-    Enviar agradecimiento patrocinadores (Es)  :2026-06-06, 2026-06-13
-    Preparar encuesta (Es)                   :2026-04-04, 2026-04-18
-    Enviar encuesta post-evento (Es)         :2026-06-03, 1d
-    Revisión resultados encuesta (Es)        :2026-06-13, 2026-06-13
-    Redactar y publicar resumen del evento (Es) :2026-06-11, 2026-06-15
+    Preparar agradecimiento patrocinadores (Es) :2026-06-20, 2026-07-08
+    Enviar agradecimiento patrocinadores (Es)  :2026-07-10, 2d
+    Preparar encuesta (Es)                   :2026-06-25, 2026-07-15
+    Enviar encuesta post-evento (Es)         :2026-07-16, 1d
+    Revisión resultados encuesta (Es)        :2026-07-20, 2026-07-28
+    Redactar y publicar resumen del evento (Es) :2026-07-29, 2026-07-30
 
     section Memorias (Cr)
-    Levantar datos del evento  (Cr)          :2026-05-31, 2026-06-13
-    Configuración plataforma memorias  (Cr)  :2026-04-04, 2026-04-18
-    Publicación presentaciones y fotos  (Cr) :2026-06-01, 2026-06-20
-    Redactar artículo del evento  (Cr)       :2026-06-13, 1d
-    Publicación artículo web  (Cr)           :2026-06-13, 1d
-    Compartir artículo en redes  (Cr)        :2026-06-13, 1d
-    Realización cuentas del evento  (Cr)     :2026-05-31, 2026-06-07
-    Redactar artículo del evento para osm  (Cr) :2026-06-27, 2026-06-28
-    Enviar artículo al blog OSM  (Cr)        :2026-06-28, 1d
-
-    section Intérpretes (Lo)
-    Revisar necesidad intérpretes  (Lo)      :2026-02-28, 2026-04-11
-    Llamado intérpretes  (Lo)                :2026-04-04, 2026-05-09
-    Contacto y asignación tareas  (Lo)       :2026-05-09, 2026-05-24
-
-
+    Configuración plataforma memorias  (Cr)  :2026-06-01, 2026-06-10
+    Levantar datos del evento  (Cr)          :2026-07-03, 2026-07-10
+    Publicación presentaciones y fotos  (Cr) :2026-07-11, 2026-07-20
+    Redactar artículo del evento  (Cr)       :2026-07-18, 1d
+    Publicación artículo web  (Cr)           :2026-07-20, 1d
+    Compartir artículo en redes  (Cr)        :2026-07-21, 1d
+    Realización cuentas del evento  (Cr)     :2026-07-03, 2026-07-20
+    Redactar artículo del evento para osm  (Cr) :2026-08-01, 2026-08-15
+    Enviar artículo al blog OSM  (Cr)        :2026-08-16, 1d
 ```
