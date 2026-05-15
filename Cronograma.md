@@ -94,18 +94,18 @@ gantt
     Contactar voluntarios y código conducta (Lo) :2026-06-04, 2026-06-23
     Asignar tareas y tiempos       (Lo)      :2026-06-24, 2026-07-02
 
-    section Comunicación previa al evento (Es, TI)
-    Crear formulario contacto (Es)           :2026-05-15, 2026-05-16
-    Preparar mail de instrucciones (Es)      :2026-05-17, 2026-05-20
-    Crear canal de comunicación WhatsApp (TI) :2026-05-19, 1d
-    Enviar mail a participantes (Es)         :2026-05-21, 1d
-
     section Almuerzo (Lo)
     Buscar lugares cercanos (Lo)             :2026-06-01, 2026-06-05
     Identificar dietas participantes (Lo)    :2026-06-01, 2026-06-25
     Negociar y contratar comida (Es, Lo)     :2026-06-06, 2026-06-22
     Indicar la cantidad de platos/dietas (Lo) :2026-06-23, 2026-06-28
     
+    section Comunicación previa al evento (Es, TI)
+    Crear formulario contacto (Es)           :2026-06-15, 2026-06-16
+    Preparar mail de instrucciones (Es)      :2026-06-17, 2026-06-20
+    Crear canal de comunicación WhatsApp (TI) :2026-06-19, 1d
+    Enviar mail a participantes (Es)         :2026-06-21, 1d
+
     section Evento – Preparación (TI)
     Incorporación presentaciones (TI)        :2026-06-25, 2026-06-02
     Alistamiento áreas patrocinadores (Lo)   :2026-07-02, 1d
