@@ -56,7 +56,7 @@ gantt
     Invitar asistentes (Es)                  :2026-05-13, 2026-06-25
 
     section Patrocinadores y aliados (Es)
-    Definir reglas de patrocinio y alianzas (Es) :2025-12-03, 2025-12-13
+    Definir reglas de patrocinio y alianzas (Es) :done, 2025-12-03, 2025-12-13
     Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
     Identificar patrocinadores (Es)          :2025-12-03, 2026-06-10
     Invitar patrocinadores (Es)              :2025-12-13, 2026-06-15
