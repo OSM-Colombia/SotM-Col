@@ -74,7 +74,7 @@ gantt
     Publicar resumen charlas-invitar (Cr)    :2026-06-05, 2026-07-15
     
     section Prensa (Cr)
-    Preparar una nota de prensa (Cr)         :2026-05-13, 2026-05-21
+    Preparar una nota de prensa (Cr)         :done, 2026-05-13, 2026-05-21
     Enviar nota de prensa a periódicos, emisoras (Cr) :2026-05-22, 2026-05-30
 
     section Transmisión (TI)
