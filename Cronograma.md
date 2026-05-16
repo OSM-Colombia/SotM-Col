@@ -101,7 +101,7 @@ gantt
     Indicar la cantidad de platos/dietas (Lo) :2026-06-23, 2026-06-28
     
     section Comunicación previa al evento (Es, TI)
-    Crear formulario contacto (Es)           :2026-06-15, 2026-06-16
+    Crear formulario contacto emergencia (Es) :2026-06-15, 2026-06-16
     Preparar mail de instrucciones (Es)      :2026-06-17, 2026-06-20
     Crear canal de comunicación WhatsApp (TI) :2026-06-19, 1d
     Enviar mail a participantes (Es)         :2026-06-21, 1d
