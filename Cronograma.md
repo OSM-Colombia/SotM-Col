@@ -89,7 +89,7 @@ gantt
     Preparar plataforma voluntarios (TI)     :2026-05-15, 2026-05-30
     Configuración plataforma (Lo)            :2026-05-31, 2026-06-10
     Identificación tareas puntuales (Lo)     :2026-06-11, 2026-06-21
-    Redactar llamado voluntarios (Lo)        :2026-05-20, 2026-05-30
+    Redactar llamado voluntarios (Lo)        :done, 2026-05-20, 2026-05-30
     Realizar llamado voluntarios (Lo)        :2026-06-03, 1d
     Contactar voluntarios y código conducta (Lo) :2026-06-04, 2026-06-23
     Asignar tareas y tiempos       (Lo)      :2026-06-24, 2026-07-02
