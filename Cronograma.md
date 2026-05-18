@@ -40,7 +40,6 @@ gantt
 
     section Plataforma (TI)
     Mantener página web (TI)                 :active, 2025-12-14, 2026-07-31
-    Mantener sistema de mensajería (TI)      :2025-12-14, 2026-07-31
     Mantener sistema de eventos (TI)         :active, 2026-05-15, 2026-07-15
     Mantener sistema de charlas-pretalx (TI) :active, 2025-12-14, 2026-07-15
 
@@ -157,6 +156,7 @@ gantt
     Redactar mail para julio (Es)            :done, 2026-07-20, 2026-07-30
 
     section Plataforma (TI)
+    Mantener sistema de mensajería (TI)      :done, 2025-12-14, 2026-07-31
     Mantener plataforma voluntarios (TI) ¿?  :done, 2026-05-15, 2026-07-15
 
     section Voluntarios de logística (TI, Lo)
