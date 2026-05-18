@@ -33,49 +33,42 @@ gantt
     section Programa (Pr, IT, Cr)
     Diseño de agenda del evento (Pr)         :done, 2025-11-06, 2025-05-20
     Montar pretalx o equivalente (IT)        :done, 2025-11-22, 2025-12-14
-    Contactar a los expositores (Pr)         :2026-05-14, 2026-05-30
+    Contactar a los expositores (Pr)         :active, 2026-05-14, 2026-05-30
     Organizar las charlas (Pr)               :2026-05-31, 2026-06-02
-    Publicar agenda (Pr, Cr)   :2026-06-03, 1d
+    Publicar agenda (Pr, Cr)                 :2026-06-03, 1d
     Contactar participantes - foto para página, plantilla (Pr)      :2026-06-04, 2026-06-10
 
-    section Lista de distribución (TI, Es)
-    Alistar una lista de distribución (TI)   :2025-12-03, 2026-05-15
-    Redactar mail para mayo (Es)             :2026-05-20, 2026-05-30
-    Redactar mail para junio (Es)            :2026-06-20, 2026-06-30
-    Redactar mail para julio (Es)            :2026-07-20, 2026-07-30
-
     section Plataforma (TI)
-    Mantener página web (TI)                 :2025-12-14, 2026-07-31
+    Mantener página web (TI)                 :active, 2025-12-14, 2026-07-31
     Mantener sistema de mensajería (TI)      :2025-12-14, 2026-07-31
-    Mantener sistema de eventos (TI)         :2026-05-15, 2026-07-15
-    Mantener sistema de charlas-pretalx (TI) :2025-12-14, 2026-07-15
-    Mantener plataforma voluntarios (TI) ¿?  :2026-05-15, 2026-07-15
+    Mantener sistema de eventos (TI)         :active, 2026-05-15, 2026-07-15
+    Mantener sistema de charlas-pretalx (TI) :active, 2025-12-14, 2026-07-15
 
     section Asistentes
-    Identificar asistentes (Es)              :2025-12-03, 2026-06-20
-    Invitar asistentes (Es)                  :2026-05-13, 2026-06-25
+    Identificar asistentes (Es)              :active, 2025-12-03, 2026-06-20
+    Invitar asistentes (Es)                  :active, 2026-05-13, 2026-06-25
 
     section Patrocinadores y aliados (Es)
     Definir reglas de patrocinio y alianzas (Es) :done, 2025-12-03, 2025-12-13
     Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
-    Identificar patrocinadores (Es)          :2025-12-03, 2026-06-10
-    Invitar patrocinadores (Es)              :2025-12-13, 2026-06-15
+    Identificar patrocinadores (Es)          :active, 2025-12-03, 2026-06-10
+    Invitar patrocinadores (Es)              :active, 2025-12-13, 2026-06-15
     Negociar con patrocinadores (Es)         :2026-05-13, 2026-06-25
 
     section Artes (Cr)
-    Definir materiales a imprimir (Cr)       :2026-05-15, 2026-05-20
+    Definir materiales a imprimir (Cr)       :active, 2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :2026-05-15, 2026-05-20
     Diseñar materiales (Cr)                  :2026-05-20, 2026-05-31
     Imprimir materiales (Cr)                 :2026-06-01, 2026-06-22
     
     section Redes sociales (Cr)
-    Definir parrilla (Cr)                    :2026-05-15, 2026-05-20
-    Publicar en redes sociales (Cr)          :2026-05-21, 2026-07-30
+    Definir parrilla (Cr)                    :active, 2026-05-15, 2026-05-20
+    Publicar en redes sociales (Cr)          :active, 2026-05-21, 2026-07-30
     Publicar resumen charlas-invitar (Cr)    :2026-06-05, 2026-07-15
     
     section Prensa (Cr)
     Preparar una nota de prensa (Cr)         :done, 2026-05-13, 2026-05-21
-    Enviar nota de prensa a periódicos, emisoras (Cr) :2026-05-22, 2026-05-30
+    Enviar nota de prensa a periódicos, emisoras (Cr) :active, 2026-05-22, 2026-05-30
 
     section Transmisión (TI)
     Configuración computadores transmisión (TI) :2026-05-16, 2026-06-30
@@ -86,11 +79,9 @@ gantt
     Asignación de becas (Es)                 :2026-06-10, 2026-06-20
 
     section Voluntarios de logística (TI, Lo)
-    Preparar plataforma voluntarios (TI)     :2026-05-15, 2026-05-30
-    Configuración plataforma (Lo)            :2026-05-31, 2026-06-10
     Identificación tareas puntuales (Lo)     :2026-06-11, 2026-06-21
     Redactar llamado voluntarios (Lo)        :done, 2026-05-20, 2026-05-30
-    Realizar llamado voluntarios (Lo)        :2026-06-03, 1d
+    Realizar llamado voluntarios (Lo)        :active, 2026-06-03, 1d
     Contactar voluntarios y código conducta (Lo) :2026-06-04, 2026-06-23
     Asignar tareas y tiempos       (Lo)      :2026-06-24, 2026-07-02
 
@@ -158,4 +149,17 @@ gantt
     Realización cuentas del evento  (Cr)     :2026-07-03, 2026-07-20
     Redactar artículo del evento para osm  (Cr) :2026-08-01, 2026-08-15
     Enviar artículo al blog OSM  (Cr)        :2026-08-16, 1d
+
+    section Lista de distribución (TI, Es)
+    Alistar una lista de distribución (TI)   :done, 2025-12-03, 2026-05-15
+    Redactar mail para mayo (Es)             :done, 2026-05-20, 2026-05-30
+    Redactar mail para junio (Es)            :done, 2026-06-20, 2026-06-30
+    Redactar mail para julio (Es)            :done, 2026-07-20, 2026-07-30
+
+    section Plataforma (TI)
+    Mantener plataforma voluntarios (TI) ¿?  :done, 2026-05-15, 2026-07-15
+
+    section Voluntarios de logística (TI, Lo)
+    Preparar plataforma voluntarios (TI)     :done, 2026-05-15, 2026-05-30
+    Configuración plataforma (Lo)            :done, 2026-05-31, 2026-06-10
 ```
