@@ -56,7 +56,7 @@ gantt
 
     section OSMF
     Pedir banner en website pull request     :done, 2026-05-22, 1d
-    Pedir promoción evento communication wg  :2026-05-22, 1d
+    Pedir promoción evento communication wg  :done, 2026-05-22, 1d
     Enviar solicitud para contactar sponsors :2026-05-22, 1d
     Escribir artículo en el blog de osm      :2026-05-23, 5d
 
