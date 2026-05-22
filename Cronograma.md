@@ -54,6 +54,12 @@ gantt
     Invitar patrocinadores (Es)              :active, 2025-12-13, 2026-06-15
     Negociar con patrocinadores (Es)         :2026-05-13, 2026-06-25
 
+    section OSMF
+    Pedir banner en website pull request     :2026-05-22, 1d
+    Pedir promoción evento communication wg  :2026-05-22, 1d
+    Enviar solicitud para contactar sponsors :2026-05-22, 1d
+    Escribir artículo en el blog de osm      :2026-05-23, 5d
+
     section Artes (Cr)
     Definir materiales a imprimir (Cr)       :active, 2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :2026-05-15, 2026-05-20
