@@ -86,7 +86,7 @@ gantt
     section Voluntarios de logística (TI, Lo)
     Identificación tareas puntuales (Lo)     :2026-06-11, 2026-06-21
     Redactar llamado voluntarios (Lo)        :done, 2026-05-20, 2026-05-30
-    Realizar llamado voluntarios (Lo)        :active, 2026-06-03, 1d
+    Realizar llamado voluntarios (Cr)        :active, 2026-06-03, 1d
     Contactar voluntarios y código conducta (Lo) :2026-06-04, 2026-06-23
     Asignar tareas y tiempos       (Lo)      :2026-06-24, 2026-07-02
 
@@ -97,13 +97,13 @@ gantt
     Indicar la cantidad de platos/dietas (Lo) :2026-06-23, 2026-06-28
     
     section Comunicación previa al evento (Es, TI)
-    Crear formulario contacto emergencia (Es) :2026-06-15, 2026-06-16
-    Preparar mail de instrucciones (Es)      :2026-06-17, 2026-06-20
-    Crear canal de comunicación WhatsApp (TI) :2026-06-19, 1d
+    Crear formulario contacto emergencia (Es) :done, 2026-06-15, 2026-06-16
+    Preparar mail de instrucciones (Es)      :done, 2026-06-17, 2026-06-20
+    Crear canal de comunicación WhatsApp (TI) :done, 2026-06-19, 1d
     Enviar mail a participantes (Es)         :2026-06-21, 1d
 
     section Evento – Preparación (TI)
-    Incorporación presentaciones (TI)        :2026-06-25, 2026-06-02
+    Incorporación presentaciones (TI)        :2026-06-25, 2026-07-02
     Alistamiento áreas patrocinadores (Lo)   :2026-07-02, 1d
     Preparar kit bienvenida (Lo)             :2026-07-02, 1d
     Montaje banners y señalización (Lo)      :2026-07-02, 1d
