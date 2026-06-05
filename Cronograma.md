@@ -33,9 +33,9 @@ gantt
     section Programa (Pr, IT, Cr)
     Diseño de agenda del evento (Pr)         :done, 2025-11-06, 2025-05-20
     Montar pretalx o equivalente (IT)        :done, 2025-11-22, 2025-12-14
-    Contactar a los expositores (Pr)         :active, 2026-05-14, 2026-05-30
-    Organizar las charlas (Pr)               :2026-05-31, 2026-06-02
-    Publicar agenda (Pr, Cr)                 :2026-06-03, 1d
+    Contactar a los expositores (Pr)         :done, 2026-05-14, 2026-05-30
+    Organizar las charlas (Pr)               :done, 2026-05-31, 2026-06-02
+    Publicar agenda (Pr, Cr)                 :done, 2026-06-03, 1d
     Contactar participantes - foto para página, plantilla (Pr)      :2026-06-04, 2026-06-10
 
     section Plataforma (TI)
@@ -62,12 +62,12 @@ gantt
 
     section Artes (Cr)
     Definir materiales a imprimir (Cr)       :active, 2026-05-15, 2026-05-20
-    Diseño de plantilla presentaciones (Cr)  :2026-05-15, 2026-05-20
+    Diseño de plantilla presentaciones (Cr)  :done, 2026-05-15, 2026-05-20
     Diseñar materiales (Cr)                  :2026-05-20, 2026-05-31
     Imprimir materiales (Cr)                 :2026-06-01, 2026-06-22
     
     section Redes sociales (Cr)
-    Definir parrilla (Cr)                    :active, 2026-05-15, 2026-05-20
+    Definir parrilla (Cr)                    :done, 2026-05-15, 2026-05-20
     Publicar en redes sociales (Cr)          :active, 2026-05-21, 2026-07-30
     Publicar resumen charlas-invitar (Cr)    :2026-06-05, 2026-07-15
     
@@ -91,9 +91,9 @@ gantt
     Asignar tareas y tiempos       (Lo)      :2026-06-24, 2026-07-02
 
     section Almuerzo (Lo)
-    Buscar lugares cercanos (Lo)             :2026-06-01, 2026-06-05
+    Buscar lugares cercanos (Lo)             :done, 2026-06-01, 2026-06-05
     Identificar dietas participantes (Lo)    :2026-06-01, 2026-06-25
-    Negociar y contratar comida (Es, Lo)     :2026-06-06, 2026-06-22
+    Negociar y contratar comida (Es, Lo)     :active, 2026-06-06, 2026-06-22
     Indicar la cantidad de platos/dietas (Lo) :2026-06-23, 2026-06-28
     
     section Comunicación previa al evento (Es, TI)
