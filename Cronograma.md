@@ -44,14 +44,14 @@ gantt
     Mantener sistema de charlas-pretalx (TI) :active, 2025-12-14, 2026-07-15
 
     section Asistentes
-    Identificar asistentes (Es)              :active, 2025-12-03, 2026-06-20
-    Invitar asistentes (Es)                  :active, 2026-05-13, 2026-06-25
+    Identificar asistentes (Es)              :done, 2025-12-03, 2026-06-20
+    Invitar asistentes (Es)                  :done, 2026-05-13, 2026-06-25
 
     section Patrocinadores y aliados (Es)
     Definir reglas de patrocinio y alianzas (Es) :done, 2025-12-03, 2025-12-13
     Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
-    Identificar patrocinadores (Es)          :active, 2025-12-03, 2026-06-10
-    Invitar patrocinadores (Es)              :active, 2025-12-13, 2026-06-15
+    Identificar patrocinadores (Es)          :done, 2025-12-03, 2026-06-10
+    Invitar patrocinadores (Es)              :done, 2025-12-13, 2026-06-15
     Negociar con patrocinadores (Es)         :2026-05-13, 2026-06-25
 
     section OSMF
@@ -76,8 +76,8 @@ gantt
     Enviar nota de prensa a periódicos, emisoras (Cr) :active, 2026-05-22, 2026-05-30
 
     section Transmisión (TI)
-    Configuración computadores transmisión (TI) :2026-05-16, 2026-06-30
-    Diseñar template para OBX (TI)           :2026-06-10, 2026-06-15
+    Configuración computadores transmisión (TI) :done, 2026-05-16, 2026-06-30
+    Diseñar template para OBX (TI)           :done, 2026-06-10, 2026-06-15
     
     section Becas (Es)
     Selección de becas (Es)                  :2026-05-20, 2026-06-10
@@ -93,7 +93,7 @@ gantt
     section Almuerzo (Lo)
     Buscar lugares cercanos (Lo)             :done, 2026-06-01, 2026-06-05
     Identificar dietas participantes (Lo)    :2026-06-01, 2026-06-25
-    Negociar y contratar comida (Es, Lo)     :active, 2026-06-06, 2026-06-22
+    Negociar y contratar comida (Es, Lo)     :done, 2026-06-06, 2026-06-22
     Indicar la cantidad de platos/dietas (Lo) :2026-06-23, 2026-06-28
     
     section Comunicación previa al evento (Es, TI)
