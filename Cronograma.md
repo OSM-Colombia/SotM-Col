@@ -36,7 +36,7 @@ gantt
     Contactar a los expositores (Pr)         :done, 2026-05-14, 2026-05-30
     Organizar las charlas (Pr)               :done, 2026-05-31, 2026-06-02
     Publicar agenda (Pr, Cr)                 :done, 2026-06-03, 1d
-    Contactar participantes - foto para página, plantilla (Pr)      :2026-06-04, 2026-06-10
+    Contactar participantes - foto para página, plantilla (Pr)      :done, 2026-06-04, 2026-06-10
 
     section Plataforma (TI)
     Mantener página web (TI)                 :active, 2025-12-14, 2026-07-31
@@ -52,7 +52,7 @@ gantt
     Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
     Identificar patrocinadores (Es)          :done, 2025-12-03, 2026-06-10
     Invitar patrocinadores (Es)              :done, 2025-12-13, 2026-06-15
-    Negociar con patrocinadores (Es)         :2026-05-13, 2026-06-25
+    Negociar con patrocinadores (Es)         :active, 2026-05-13, 2026-06-25
 
     section OSMF
     Pedir banner en website pull request     :done, 2026-05-22, 1d
@@ -63,17 +63,17 @@ gantt
     section Artes (Cr)
     Definir materiales a imprimir (Cr)       :active, 2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :done, 2026-05-15, 2026-05-20
-    Diseñar materiales (Cr)                  :2026-05-20, 2026-05-31
+    Diseñar materiales (Cr)                  :active, 2026-05-20, 2026-05-31
     Imprimir materiales (Cr)                 :2026-06-01, 2026-06-22
     
     section Redes sociales (Cr)
     Definir parrilla (Cr)                    :done, 2026-05-15, 2026-05-20
     Publicar en redes sociales (Cr)          :active, 2026-05-21, 2026-07-30
-    Publicar resumen charlas-invitar (Cr)    :2026-06-05, 2026-07-15
+    Publicar resumen charlas-invitar (Cr)    :active, 2026-06-05, 2026-07-15
     
     section Prensa (Cr)
     Preparar una nota de prensa (Cr)         :done, 2026-05-13, 2026-05-21
-    Enviar nota de prensa a periódicos, emisoras (Cr) :active, 2026-05-22, 2026-05-30
+    Enviar nota de prensa a periódicos, emisoras (Cr) :done, 2026-05-22, 2026-05-30
 
     section Transmisión (TI)
     Configuración computadores transmisión (TI) :done, 2026-05-16, 2026-06-30
