@@ -61,7 +61,7 @@ gantt
     Escribir artículo en el blog de osm      :2026-05-23, 5d
 
     section Artes (Cr)
-    Definir materiales a imprimir (Cr)       :active, 2026-05-15, 2026-05-20
+    Definir materiales a imprimir (Cr)       :done, 2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :done, 2026-05-15, 2026-05-20
     Diseñar materiales (Cr)                  :active, 2026-05-20, 2026-05-31
     Imprimir materiales (Cr)                 :2026-06-01, 2026-06-22
