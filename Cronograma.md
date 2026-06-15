@@ -109,6 +109,9 @@ gantt
     Montaje banners y señalización (Lo)      :2026-07-02, 1d
     Preparación rincón café (Lo)             :2026-07-02, 1d
     Montaje computadores con guaya (TI)      :2026-07-03, 2026-07-04
+    Montaje atril - computador 03 (TI)       :2026-07-03, 2026-07-04
+    Montaje backup - computador 04 timer (TI):2026-07-03, 2026-07-04
+    Montaje obs - computador 02 (TI)         :2026-07-03, 2026-07-04
 
     section Checklist (Todos)
     Definir checklist (Todos)                :2026-06-20, 2026-06-30
