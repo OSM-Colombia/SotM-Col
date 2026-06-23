@@ -57,13 +57,13 @@ gantt
     section OSMF
     Pedir banner en website pull request     :done, 2026-05-22, 1d
     Pedir promoción evento communication wg  :done, 2026-05-22, 1d
-    Enviar solicitud para contactar sponsors :2026-05-22, 1d
+    NOTDONE Enviar solicitud para contactar sponsors :done, 2026-05-22, 1d
     Escribir artículo en el blog de osm      :2026-05-23, 5d
 
     section Artes (Cr)
     Definir materiales a imprimir (Cr)       :done, 2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :done, 2026-05-15, 2026-05-20
-    Diseñar materiales (Cr)                  :active, 2026-05-20, 2026-05-31
+    Diseñar materiales (Cr)                  :done, 2026-05-20, 2026-05-31
     Imprimir materiales (Cr)                 :2026-06-01, 2026-06-22
     
     section Redes sociales (Cr)
@@ -80,7 +80,7 @@ gantt
     Diseñar template para OBX (TI)           :done, 2026-06-10, 2026-06-15
     
     section Becas (Es)
-    Selección de becas (Es)                  :2026-05-20, 2026-06-10
+    Selección de becas (Es)                  :done, 2026-05-20, 2026-06-10
     Asignación de becas (Es)                 :2026-06-10, 2026-06-20
 
     section Voluntarios de logística (TI, Lo)
