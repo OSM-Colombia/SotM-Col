@@ -52,19 +52,19 @@ gantt
     Hacer el llamado a patrocinadores (Es)   :done, 2025-12-13, 1d
     Identificar patrocinadores (Es)          :done, 2025-12-03, 2026-06-10
     Invitar patrocinadores (Es)              :done, 2025-12-13, 2026-06-15
-    Negociar con patrocinadores (Es)         :active, 2026-05-13, 2026-06-25
+    Negociar con patrocinadores (Es)         :done, 2026-05-13, 2026-06-25
 
     section OSMF
     Pedir banner en website pull request     :done, 2026-05-22, 1d
     Pedir promoción evento communication wg  :done, 2026-05-22, 1d
     NOTDONE Enviar solicitud para contactar sponsors :done, 2026-05-22, 1d
-    Escribir artículo en el blog de osm      :2026-05-23, 5d
+    Escribir artículo en el blog de osm      :done, 2026-05-23, 5d
 
     section Artes (Cr)
     Definir materiales a imprimir (Cr)       :done, 2026-05-15, 2026-05-20
     Diseño de plantilla presentaciones (Cr)  :done, 2026-05-15, 2026-05-20
     Diseñar materiales (Cr)                  :done, 2026-05-20, 2026-05-31
-    Imprimir materiales (Cr)                 :2026-06-01, 2026-06-22
+    Imprimir materiales (Cr)                 :active, 2026-06-01, 2026-06-22
     
     section Redes sociales (Cr)
     Definir parrilla (Cr)                    :done, 2026-05-15, 2026-05-20
@@ -84,28 +84,28 @@ gantt
     Asignación de becas (Es)                 :2026-06-10, 2026-06-20
 
     section Voluntarios de logística (TI, Lo)
-    Identificación tareas puntuales (Lo)     :2026-06-11, 2026-06-21
+    Identificación tareas puntuales (Lo)     :done, 2026-06-11, 2026-06-21
     Redactar llamado voluntarios (Lo)        :done, 2026-05-20, 2026-05-30
-    Realizar llamado voluntarios (Cr)        :active, 2026-06-03, 1d
-    Contactar voluntarios y código conducta (Lo) :2026-06-04, 2026-06-23
-    Asignar tareas y tiempos       (Lo)      :2026-06-24, 2026-07-02
+    Realizar llamado voluntarios (Cr)        :done, 2026-06-03, 1d
+    Contactar voluntarios y código conducta (Lo) :active, 2026-06-04, 2026-06-23
+    Asignar tareas y tiempos       (Lo)      :active, 2026-06-24, 2026-07-02
 
     section Almuerzo (Lo)
     Buscar lugares cercanos (Lo)             :done, 2026-06-01, 2026-06-05
-    Identificar dietas participantes (Lo)    :2026-06-01, 2026-06-25
+    Identificar dietas participantes (Lo)    :done, 2026-06-01, 2026-06-25
     Negociar y contratar comida (Es, Lo)     :done, 2026-06-06, 2026-06-22
-    Indicar la cantidad de platos/dietas (Lo) :2026-06-23, 2026-06-28
+    Indicar la cantidad de platos/dietas (Lo) :done, 2026-06-23, 2026-06-28
     
     section Comunicación previa al evento (Es, TI)
     Crear formulario contacto emergencia (Es) :done, 2026-06-15, 2026-06-16
     Preparar mail de instrucciones (Es)      :done, 2026-06-17, 2026-06-20
     Crear canal de comunicación WhatsApp (TI) :done, 2026-06-19, 1d
-    Enviar mail a participantes (Es)         :2026-06-21, 1d
+    Enviar mail a participantes (Es)         :done, 2026-06-21, 1d
 
     section Evento – Preparación (TI)
     Incorporación presentaciones (TI)        :2026-06-25, 2026-07-02
     Alistamiento áreas patrocinadores (Lo)   :2026-07-02, 1d
-    Preparar kit bienvenida (Lo)             :2026-07-02, 1d
+    Preparar kit bienvenida (Lo)             :done, 2026-07-02, 1d
     Montaje banners y señalización (Lo)      :2026-07-02, 1d
     Preparación rincón café (Lo)             :2026-07-02, 1d
     Montaje computadores con guaya (TI)      :2026-07-03, 2026-07-04
@@ -114,7 +114,7 @@ gantt
     Montaje obs - computador 02 (TI)         :2026-07-03, 2026-07-04
 
     section Checklist (Todos)
-    Definir checklist (Todos)                :2026-06-20, 2026-06-30
+    Definir checklist (Todos)                :active, 2026-06-20, 2026-06-30
     Validar checklist (Es, lo)               :2026-07-01, 2026-07-02
 
     %% Hasta aquí toda la preparación del evento
