@@ -140,8 +140,8 @@ gantt
     Envío agradecimientos asistentes (Cr)    :2026-07-10, 2d
 
     section Comunicación post-evento (Es)
-    Preparar agradecimiento patrocinadores (Es) :2026-06-20, 2026-07-08
-    Enviar agradecimiento patrocinadores (Es)  :2026-07-10, 2d
+    Preparar agradecimiento patrocinadores (Es) :done, 2026-06-20, 2026-07-08
+    Enviar agradecimiento patrocinadores (Es)  :done, 2026-07-10, 2d
     Preparar encuesta (Es)                   :2026-06-25, 2026-07-15
     Enviar encuesta post-evento (Es)         :2026-07-16, 1d
     Revisión resultados encuesta (Es)        :2026-07-20, 2026-07-28
